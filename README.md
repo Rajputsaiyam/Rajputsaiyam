@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajputsaiyam" alt="rajputsaiyam" /></a> </p>
 
-- 🌿AI Powered Smart Farming Assistant **Agrosmart**
+- 🌿AI Powered Smart Farming Assistant [Agrosmart](https://github.com/Rajputsaiyam/AgroSmart-ML-Driven-Crop-Recommender)
 
-- 🫀Realetd to Healthcare Industry **Telemedicine**
+- 🫀Realetd to Healthcare Industry [Telemedicine](https://brilliant-cascaron-c57211.netlify.app/)
 
-- 🤝 A Legal aid Platform **Nyayadheesh**
+- 🤝 A Legal aid Platform [Nyayadheesh](https://nyaya-dheesh-e3kn.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-woad-gamma-rid2q3awbq.vercel.app/](https://portfolio-woad-gamma-rid2q3awbq.vercel.app/)
 
@@ -37,4 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajputsaiyam&show_icons=true&locale=en&layout=compact" alt="rajputsaiyam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajputsaiyam&show_icons=true&locale=en" alt="rajputsaiyam" /></p>
-
