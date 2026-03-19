@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiyam Rajput</h1>
-<h3 align="center">A passionate frontend MERN Stack Developer | AI/ML Enthusiast | 3rd Year Computer Science Student from Indiaveloper from India</h3>
+<h3 align="center">A passionate frontend MERN Stack Developer | AI/ML Enthusiast | 3rd Year Computer Science Student from GGSIPU </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputsaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="rajputsaiyam" /> </p>
 
