@@ -71,16 +71,16 @@ fun_fact:    I turn coffee into code and AI projects
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3><img src="https://api.iconify.design/mdi:hammer-wrench.svg?color=%23f59e0b" height="24" align="absmiddle" alt="" /> SkillForge</h3>
+      <p><b>Skill-building platform</b> designed to help learners develop, track and showcase their skills.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Full--Stack-7b2ff7?style=flat-square" /></p>
+      <a href="https://skillforge-ai-4wju.vercel.app/">Live Demo</a>
+    </td>
+    <td width="33%" valign="top">
       <h3><img src="https://api.iconify.design/mdi:sprout.svg?color=%2334a853" height="24" align="absmiddle" alt="" /> AgroSmart</h3>
       <p><b>AI-powered smart farming assistant.</b> An ML-driven crop recommender that suggests the best crops based on soil and environmental conditions.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" /></p>
       <a href="https://github.com/Rajputsaiyam/AgroSmart-ML-Driven-Crop-Recommender">View Repository</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><img src="https://api.iconify.design/mdi:hammer-wrench.svg?color=%23f59e0b" height="24" align="absmiddle" alt="" /> SkillForge</h3>
-      <p><b>Skill-building platform</b> designed to help learners develop, track and showcase their skills.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Full--Stack-7b2ff7?style=flat-square" /></p>
-      <a href="https://github.com/Rajputsaiyam?tab=repositories">View Project</a>
     </td>
     <td width="33%" valign="top">
       <h3><img src="https://api.iconify.design/mdi:scale-balance.svg?color=%23a78bfa" height="24" align="absmiddle" alt="" /> Nyayadheesh</h3>
