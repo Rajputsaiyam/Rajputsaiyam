@@ -132,7 +132,7 @@ fun_fact:    I turn coffee into code and AI projects
 <div align="center">
 
 <a href="https://linkedin.com/in/saiyam-rajput-b415642ba"><img src="https://img.shields.io/badge/LinkedIn-Saiyam%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.leetcode.com/saiyam_71"><img src="https://img.shields.io/badge/LeetCode-saiyam__71-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
 <a href="https://www.youtube.com/@VlogsBySaiyam"><img src="https://img.shields.io/badge/YouTube-VlogsBySaiyam-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 <br/><br/>
