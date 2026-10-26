@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/mdi:account.svg?color=%230e75b6" height="28" align="absmiddle" alt="" /> About Me
 
 I'm a **Full-Stack (MERN) Developer** and **AI/ML enthusiast** pursuing my final year in **Artificial Intelligence & Machine Learning at GGSIPU**. I enjoy building products that solve real-world problems, from clean, responsive front ends to robust APIs and machine-learning models that power smart decisions.
 
@@ -33,12 +33,12 @@ education:   B.Tech, AI & ML — GGSIPU (4th Year)
 focus:       Scalable web apps · ML-driven products · Clean architecture
 currently:   Building AI-powered, real-world applications
 open_to:     Internships · Full-time roles · Collaborations
-fun_fact:    I turn coffee ☕ into code and AI projects 🤖
+fun_fact:    I turn coffee into code and AI projects
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/mdi:code-tags.svg?color=%230e75b6" height="28" align="absmiddle" alt="" /> Tech Stack
 
 <div align="center">
 
@@ -66,40 +66,40 @@ fun_fact:    I turn coffee ☕ into code and AI projects 🤖
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%230e75b6" height="28" align="absmiddle" alt="" /> Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🌿 AgroSmart</h3>
+      <h3><img src="https://api.iconify.design/mdi:sprout.svg?color=%2334a853" height="24" align="absmiddle" alt="" /> AgroSmart</h3>
       <p><b>AI-powered smart farming assistant.</b> An ML-driven crop recommender that suggests the best crops based on soil and environmental conditions.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" /></p>
-      <a href="https://github.com/Rajputsaiyam/AgroSmart-ML-Driven-Crop-Recommender">🔗 View Repository</a>
+      <a href="https://github.com/Rajputsaiyam/AgroSmart-ML-Driven-Crop-Recommender">View Repository</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🫀 Telemedicine</h3>
-      <p><b>Healthcare platform</b> that connects patients and doctors remotely, making consultations simple and accessible.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HealthTech-0e75b6?style=flat-square" /></p>
-      <a href="https://brilliant-cascaron-c57211.netlify.app/">🔗 Live Demo</a>
+      <h3><img src="https://api.iconify.design/mdi:hammer-wrench.svg?color=%23f59e0b" height="24" align="absmiddle" alt="" /> SkillForge</h3>
+      <p><b>Skill-building platform</b> designed to help learners develop, track and showcase their skills.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Full--Stack-7b2ff7?style=flat-square" /></p>
+      <a href="https://github.com/Rajputsaiyam?tab=repositories">View Project</a>
     </td>
     <td width="33%" valign="top">
-      <h3>⚖️ Nyayadheesh</h3>
+      <h3><img src="https://api.iconify.design/mdi:scale-balance.svg?color=%23a78bfa" height="24" align="absmiddle" alt="" /> Nyayadheesh</h3>
       <p><b>Legal aid platform</b> that helps people understand and access legal support more easily.</p>
       <p><img src="https://img.shields.io/badge/Full--Stack-7b2ff7?style=flat-square" /> <img src="https://img.shields.io/badge/LegalTech-111827?style=flat-square" /></p>
-      <a href="https://nyaya-dheesh-e3kn.vercel.app/">🔗 Live Demo</a>
+      <a href="https://nyaya-dheesh-e3kn.vercel.app/">Live Demo</a>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-👉 **[Explore all my projects on my portfolio](https://portfolio-woad-gamma-rid2q3awbq.vercel.app/)**
+**[Explore all my projects on my portfolio](https://portfolio-woad-gamma-rid2q3awbq.vercel.app/)**
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/mdi:chart-box.svg?color=%230e75b6" height="28" align="absmiddle" alt="" /> GitHub Stats
 
 <div align="center">
 
@@ -118,24 +118,16 @@ fun_fact:    I turn coffee ☕ into code and AI projects 🤖
 
 ---
 
-## 📈 Contribution Activity
+## <img src="https://api.iconify.design/mdi:target.svg?color=%230e75b6" height="28" align="absmiddle" alt="" /> Currently Focused On
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajputsaiyam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-## 🧠 Currently Focused On
-
-- 🔭 Building production-grade **MERN** applications with clean architecture
-- 🤖 Deepening my skills in **Machine Learning** and applied AI
-- 🧩 Sharpening **Data Structures & Algorithms** on LeetCode
-- 🌱 Exploring **TypeScript**, **Next.js**, and scalable backend design
+- Building production-grade **MERN** applications with clean architecture
+- Deepening my skills in **Machine Learning** and applied AI
+- Sharpening **Data Structures & Algorithms** on LeetCode
+- Exploring **TypeScript**, **Next.js**, and scalable backend design
 
 ---
 
-## 🌐 Let's Connect
+## <img src="https://api.iconify.design/mdi:link-variant.svg?color=%230e75b6" height="28" align="absmiddle" alt="" /> Let's Connect
 
 <div align="center">
 
@@ -146,11 +138,11 @@ fun_fact:    I turn coffee ☕ into code and AI projects 🤖
 
 <br/><br/>
 
-📫 **Reach me at:** [saiyamrajput71@gmail.com](mailto:saiyamrajput71@gmail.com)
+<img src="https://api.iconify.design/mdi:email-outline.svg?color=%230e75b6" height="18" align="absmiddle" alt="" /> **Reach me at:** [saiyamrajput71@gmail.com](mailto:saiyamrajput71@gmail.com)
 
 <br/>
 
-*⭐ If you like my work, consider giving a star to my repositories!*
+*If you like my work, consider giving a star to my repositories.*
 
 </div>
 
