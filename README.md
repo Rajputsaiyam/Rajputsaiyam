@@ -1,39 +1,157 @@
-<h1 align="center">Hi 👋, I'm Saiyam Rajput</h1>
-<h3 align="center">A passionate FUllstack/MERN Stack Developer | AI/ML Enthusiast | 4th Year AI&ML Student from GGSIPU </h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputsaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="rajputsaiyam" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=220&section=header&text=Saiyam%20Rajput&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20MERN%20%7C%20AI%2FML%20Developer&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajputsaiyam" alt="rajputsaiyam" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+scalable+Full-Stack+web+apps;Turning+data+into+intelligent+products;MERN+Stack+%2B+Machine+Learning;4th+Year+AI%2FML+%40+GGSIPU" alt="Typing SVG" />
+</a>
 
-- 🌿AI Powered Smart Farming Assistant [Agrosmart](https://github.com/Rajputsaiyam/AgroSmart-ML-Driven-Crop-Recommender)
+<br/>
 
-- 🫀Realetd to Healthcare Industry [Telemedicine](https://brilliant-cascaron-c57211.netlify.app/)
+<img src="https://komarev.com/ghpvc/?username=rajputsaiyam&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/rajputsaiyam?style=for-the-badge&logo=github&color=7b2ff7" alt="Followers" />
 
-- 🤝 A Legal aid Platform [Nyayadheesh](https://nyaya-dheesh-e3kn.vercel.app/)
+<br/><br/>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-woad-gamma-rid2q3awbq.vercel.app/](https://portfolio-woad-gamma-rid2q3awbq.vercel.app/)
+<a href="https://portfolio-woad-gamma-rid2q3awbq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/saiyam-rajput-b415642ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:saiyamrajput71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://drive.google.com/file/d/1vAGFFL90VrR2DqAp9b-k5_kL8MYvdGmS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 
-- 📝 I'm a Content Creator just for fun [https://www.youtube.com/@VlogsBySaiyam](https://www.youtube.com/@VlogsBySaiyam)
+</div>
 
-- 📫 How to reach me **saiyamrajput71@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jFVUMqRsIvg3NS0UmUX0S2zBfU9BemIp/view](https://drive.google.com/file/d/1jFVUMqRsIvg3NS0UmUX0S2zBfU9BemIp/view)
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I turn coffee ☕ into code and AI projects 🤖**
+I'm a **Full-Stack (MERN) Developer** and **AI/ML enthusiast** pursuing my final year in **Artificial Intelligence & Machine Learning at GGSIPU**. I enjoy building products that solve real-world problems, from clean, responsive front ends to robust APIs and machine-learning models that power smart decisions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saiyam rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saiyam rajput" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saiyam-rajput-b415642ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyam-rajput-b415642ba" height="30" width="40" /></a>
-<a href="https://fb.com/saiyam rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saiyam rajput" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vlogsbysaiyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vlogsbysaiyam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saiyam_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saiyam_71" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/110018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="110018" height="30" width="40" /></a>
-</p>
+```yaml
+role:        Full-Stack Developer (MERN) · AI/ML Developer
+education:   B.Tech, AI & ML — GGSIPU (4th Year)
+focus:       Scalable web apps · ML-driven products · Clean architecture
+currently:   Building AI-powered, real-world applications
+open_to:     Internships · Full-time roles · Collaborations
+fun_fact:    I turn coffee ☕ into code and AI projects 🤖
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajputsaiyam&show_icons=true&locale=en&layout=compact" alt="rajputsaiyam" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajputsaiyam&show_icons=true&locale=en" alt="rajputsaiyam" /></p>
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css&perline=7" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,nextjs&perline=7" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=7" alt="Backend" />
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&perline=7" alt="AI/ML" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&perline=7" alt="Tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌿 AgroSmart</h3>
+      <p><b>AI-powered smart farming assistant.</b> An ML-driven crop recommender that suggests the best crops based on soil and environmental conditions.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" /></p>
+      <a href="https://github.com/Rajputsaiyam/AgroSmart-ML-Driven-Crop-Recommender">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🫀 Telemedicine</h3>
+      <p><b>Healthcare platform</b> that connects patients and doctors remotely, making consultations simple and accessible.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HealthTech-0e75b6?style=flat-square" /></p>
+      <a href="https://brilliant-cascaron-c57211.netlify.app/">🔗 Live Demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚖️ Nyayadheesh</h3>
+      <p><b>Legal aid platform</b> that helps people understand and access legal support more easily.</p>
+      <p><img src="https://img.shields.io/badge/Full--Stack-7b2ff7?style=flat-square" /> <img src="https://img.shields.io/badge/LegalTech-111827?style=flat-square" /></p>
+      <a href="https://nyaya-dheesh-e3kn.vercel.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+👉 **[Explore all my projects on my portfolio](https://portfolio-woad-gamma-rid2q3awbq.vercel.app/)**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajputsaiyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputsaiyam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rajputsaiyam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajputsaiyam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajputsaiyam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 🧠 Currently Focused On
+
+- 🔭 Building production-grade **MERN** applications with clean architecture
+- 🤖 Deepening my skills in **Machine Learning** and applied AI
+- 🧩 Sharpening **Data Structures & Algorithms** on LeetCode
+- 🌱 Exploring **TypeScript**, **Next.js**, and scalable backend design
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/saiyam-rajput-b415642ba"><img src="https://img.shields.io/badge/LinkedIn-Saiyam%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.leetcode.com/saiyam_71"><img src="https://img.shields.io/badge/LeetCode-saiyam__71-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.topcoder.com/members/110018"><img src="https://img.shields.io/badge/Topcoder-110018-29A8DF?style=for-the-badge&logo=topcoder&logoColor=white" /></a>
+<a href="https://www.youtube.com/@VlogsBySaiyam"><img src="https://img.shields.io/badge/YouTube-VlogsBySaiyam-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+<br/><br/>
+
+📫 **Reach me at:** [saiyamrajput71@gmail.com](mailto:saiyamrajput71@gmail.com)
+
+<br/>
+
+*⭐ If you like my work, consider giving a star to my repositories!*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=120&section=footer" width="100%" alt="footer" />
